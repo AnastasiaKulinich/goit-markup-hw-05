@@ -538,6 +538,8 @@ img {
 .project-top-text {
   position: absolute;
   display: flex;
+  align-items: center;
+  justify-content: center;
   text-align: left;
   top: 0;
   font-style: normal;
