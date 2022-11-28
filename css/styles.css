@@ -490,6 +490,7 @@ img {
   display: inline-block;
   transition-property: color, box-shadow, background-color;
   transition-duration: 250ms;
+   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); 
 }
 .filter-btn:hover,
 .filter-btn:focus {
